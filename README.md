@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+https://ecommerce-fithu.herokuapp.com/
+
 # create app by running command in the terminal
 npx create-react-app app-name
 
@@ -62,3 +64,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 ### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+you can visit this here 
+https://ecommerce-fithu.herokuapp.com/
